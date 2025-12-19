@@ -3,3 +3,6 @@ tgcrypto
 python-telegram-bot
 requests
 telebot
+pyTelegramBotAPI
+flask
+requests
