@@ -8,6 +8,9 @@ import os
 import json
 from datetime import datetime
 import random
+from flask import Flask, request
+import os
+import telebot
 
 # Initialize bot with your token
 bot = TeleBot("8528695397:AAEX0oVUQzZxKlfE4tzYxmI95krguZ0JKgM")
