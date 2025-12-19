@@ -2,3 +2,4 @@ pyrogram
 tgcrypto
 python-telegram-bot
 requests
+telebot
