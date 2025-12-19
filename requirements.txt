@@ -1,3 +1,13 @@
 pyrogram
 tgcrypto
 python-telegram-bot
+requests
+time
+threading
+re
+urlparse
+TeleBot
+os
+json
+datetime
+random
